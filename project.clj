@@ -1,4 +1,4 @@
-(defproject org.clojars.erikseppanen/monger "3.1.0-SNAPSHOT"
+(defproject org.clojars.whiteboardfederal/monger "3.1.0-SNAPSHOT"
   :description "Monger is a Clojure MongoDB client for a more civilized age: friendly, flexible and with batteries included"
   :url "http://clojuremongodb.info"
   :min-lein-version "2.5.1"
